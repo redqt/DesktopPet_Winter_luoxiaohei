@@ -11,7 +11,7 @@
 
 右键菜单是可以自定义的，只需要对config文件夹下面的menu_config.json文件进行编辑即可动态的修改右键菜单的内容
 
-​	![image-20240404140106757](assets\image-20240404140106757.png)
+​	![image-20240404140106757](assets/image-20240404140106757.png)
 
 ```json
 {
@@ -81,7 +81,7 @@ Start-Process "C:\Program Files\Tailscale\tailscale-ipn.exe"
 
 替换时只需要按照上面的规则来替换即可。
 
-![image-20240404140504157](assets\image-20240404140504157.png)
+![image-20240404140504157](assets/image-20240404140504157.png)
 
 
 
