@@ -85,4 +85,14 @@ Start-Process "C:\Program Files\Tailscale\tailscale-ipn.exe"
 
 
 
-## 接入大语言模型（未完成）
+### 计划加入的功能
+
+添加移动功能
+
+接入大语言模型对话
+
+语音对话，语音唤醒
+
+接入agent框架实现自主对话和移动？
+
+与鼠标的互动？
