@@ -1,0 +1,182 @@
+Log file created at: 2024/04/04 13:11:36
+Running on machine: Winter-PC
+Binary: Built with gc go1.14.10 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0404 13:11:36.759772    6176 glogMgr.go:57] SetLog Dir:E:\codes\python_pet2_liqiujian-master\python_pet2_liqiujian-master\my_pet\bat\acc_log
+I0404 13:11:36.760772    6176 glogMgr.go:96] CleanLogTask Dir:E:\codes\python_pet2_liqiujian-master\python_pet2_liqiujian-master\my_pet\bat\acc_log
+I0404 13:11:36.770771    6176 main.go:4577] Start Main :457c30ac-09c2-4f6c-8bd3-882acde80075 build_version:1.1.48, curVersion:1.1.48, dir:D:\Qingfeng\HeyboxAccelerator\
+I0404 13:11:36.773771    6176 utils.go:875] ipv6 Ifces list:[ Realtek Gaming 2.5GbE Family Controller?192.168.1.6]
+I0404 13:11:36.775771    6176 glogMgr.go:303] Xshell 7
+I0404 13:11:36.775771    6176 glogMgr.go:303] Internet Download Manager
+I0404 13:11:36.775771    6176 glogMgr.go:303] Parsec Virtual Display Driver
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+I0404 13:11:36.775771    6176 glogMgr.go:303] Realtek Audio Driver
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Update Health Tools
+I0404 13:11:36.775771    6176 glogMgr.go:303] Intel® Software Installer
+I0404 13:11:36.775771    6176 glogMgr.go:303] Factorio
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Virtual Host Controller
+I0404 13:11:36.775771    6176 glogMgr.go:303] Intel(R) ME WMI Provider
+I0404 13:11:36.775771    6176 glogMgr.go:303] UU加速器
+I0404 13:11:36.775771    6176 glogMgr.go:303] 必剪
+I0404 13:11:36.775771    6176 glogMgr.go:303] MIUI+
+I0404 13:11:36.775771    6176 glogMgr.go:303] Bandizip
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+I0404 13:11:36.775771    6176 glogMgr.go:303] Documentation Manager
+I0404 13:11:36.775771    6176 glogMgr.go:303] 向日葵远程控制
+I0404 13:11:36.775771    6176 glogMgr.go:303] EasyVirtualDisplay 版本 0.1
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA SHIELD Wireless Controller Driver
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft .NET Host FX Resolver - 6.0.26 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] aTrust
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+I0404 13:11:36.775771    6176 glogMgr.go:303] 网易云音乐
+I0404 13:11:36.775771    6176 glogMgr.go:303] 网易有道翻译
+I0404 13:11:36.775771    6176 glogMgr.go:303] Everything 1.4.1.1024 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA HD 音频驱动程序 1.3.40.14
+I0404 13:11:36.775771    6176 glogMgr.go:303] Arduino
+I0404 13:11:36.775771    6176 glogMgr.go:303] Mozilla Firefox (x64 zh-CN)
+I0404 13:11:36.775771    6176 glogMgr.go:303] Red Dead Redemption 2
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Container
+I0404 13:11:36.775771    6176 glogMgr.go:303] TechPowerUp GPU-Z
+I0404 13:11:36.775771    6176 glogMgr.go:303] 无畏契约
+I0404 13:11:36.775771    6176 glogMgr.go:303] Git
+I0404 13:11:36.775771    6176 glogMgr.go:303] Titanfall® 2
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA User Container
+I0404 13:11:36.775771    6176 glogMgr.go:303] Node.js
+I0404 13:11:36.775771    6176 glogMgr.go:303] AIDA64 Extreme v6.92
+I0404 13:11:36.775771    6176 glogMgr.go:303] Intel(R) Chipset Device Software
+I0404 13:11:36.775771    6176 glogMgr.go:303] 英雄联盟
+I0404 13:11:36.775771    6176 glogMgr.go:303] 火绒安全软件
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft .NET Runtime - 6.0.26 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft .NET Host - 6.0.26 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Windows Desktop Runtime - 6.0.26 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] 深岩银河
+I0404 13:11:36.775771    6176 glogMgr.go:303] WeGame
+I0404 13:11:36.775771    6176 glogMgr.go:303] Apex Legends
+I0404 13:11:36.775771    6176 glogMgr.go:303] 发烧游戏
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA PhysX 系统软件 9.21.0713
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA LocalSystem Container
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Message Bus for NvContainer
+I0404 13:11:36.775771    6176 glogMgr.go:303] Watt Toolkit
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Edge WebView2 Runtime
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532
+I0404 13:11:36.775771    6176 glogMgr.go:303] Frostpunk
+I0404 13:11:36.775771    6176 glogMgr.go:303] Office 16 Click-to-Run Localization Component
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA 图形驱动程序 551.61
+I0404 13:11:36.775771    6176 glogMgr.go:303] 微信
+I0404 13:11:36.775771    6176 glogMgr.go:303] 腾讯会议
+I0404 13:11:36.775771    6176 glogMgr.go:303] Teams Machine-Wide Installer
+I0404 13:11:36.775771    6176 glogMgr.go:303] MiService
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA NodeJS
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532
+I0404 13:11:36.775771    6176 glogMgr.go:303] PotPlayer-64 bit
+I0404 13:11:36.775771    6176 glogMgr.go:303] Lethal Company
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA FrameView SDK 1.3.8513.32290073
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Edge Update
+I0404 13:11:36.775771    6176 glogMgr.go:303] Steam
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft OneDrive
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Office LTSC 专业增强版 2021 - zh-cn
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+I0404 13:11:36.775771    6176 glogMgr.go:303] Cheat Engine 7.5
+I0404 13:11:36.775771    6176 glogMgr.go:303] MONSTER HUNTER RISE
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Telemetry Client
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Virtual Audio 4.49.0.0
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+I0404 13:11:36.775771    6176 glogMgr.go:303] Wallpaper Engine：壁纸引擎
+I0404 13:11:36.775771    6176 glogMgr.go:303] Monster Hunter: World
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft .NET Host - 8.0.0 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] Intel(R) Icls
+I0404 13:11:36.775771    6176 glogMgr.go:303] 小黑盒加速器 1.1.48
+I0404 13:11:36.775771    6176 glogMgr.go:303] Xftp 7
+I0404 13:11:36.775771    6176 glogMgr.go:303] Office 16 Click-to-Run Licensing Component
+I0404 13:11:36.775771    6176 glogMgr.go:303] ViGEm Bus Driver
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA SHIELD Streaming
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Install Application
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Watchdog Plugin for NvContainer
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532
+I0404 13:11:36.775771    6176 glogMgr.go:303] Realtek Ethernet Controller Driver
+I0404 13:11:36.775771    6176 glogMgr.go:303] 无畏契约助手
+I0404 13:11:36.775771    6176 glogMgr.go:303] Patrick's Parabox
+I0404 13:11:36.775771    6176 glogMgr.go:303] Vampire Survivors - 吸血鬼幸存者
+I0404 13:11:36.775771    6176 glogMgr.go:303] Java(TM) SE Development Kit 21.0.2 (64-bit)
+I0404 13:11:36.775771    6176 glogMgr.go:303] Office 16 Click-to-Run Extensibility Component
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA GeForce Experience 3.27.0.120
+I0404 13:11:36.775771    6176 glogMgr.go:303] Intel(R) Management Engine Driver
+I0404 13:11:36.775771    6176 glogMgr.go:303] AntiCheatExpert
+I0404 13:11:36.775771    6176 glogMgr.go:303] Intel(R) Management Engine Components
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA NVAPI Monitor plugin for NvContainer
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA ShadowPlay 3.27.0.120
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+I0404 13:11:36.775771    6176 glogMgr.go:303] MSI Center SDK
+I0404 13:11:36.775771    6176 glogMgr.go:303] Content Warning
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA 更新 39.5.0.0
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Backend
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA NvModuleTracker
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Edge
+I0404 13:11:36.775771    6176 glogMgr.go:303] CPUID CPU-Z MSI 2.08
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532
+I0404 13:11:36.775771    6176 glogMgr.go:303] Gui-Guider-1.4.0-GA
+I0404 13:11:36.775771    6176 glogMgr.go:303] Logitech G HUB
+I0404 13:11:36.775771    6176 glogMgr.go:303] 战地风云™ 2042
+I0404 13:11:36.775771    6176 glogMgr.go:303] Typora
+I0404 13:11:36.775771    6176 glogMgr.go:303] Windows Subsystem for Linux
+I0404 13:11:36.775771    6176 glogMgr.go:303] PyCharm 2023.3.3
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+I0404 13:11:36.775771    6176 glogMgr.go:303] Windows Driver Package - STMicroelectronics (WinUSB) STLinkWinUSB  (06/08/2017 2.01)
+I0404 13:11:36.775771    6176 glogMgr.go:303] RaiDrive
+I0404 13:11:36.775771    6176 glogMgr.go:303] Overwolf
+I0404 13:11:36.775771    6176 glogMgr.go:303] Left 4 Dead 2
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft .NET Runtime - 8.0.0 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA TelemetryApi helper for NvContainer
+I0404 13:11:36.775771    6176 glogMgr.go:303] 百度网盘
+I0404 13:11:36.775771    6176 glogMgr.go:303] Hollow Knight
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft .NET Host FX Resolver - 8.0.0 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] TIM
+I0404 13:11:36.775771    6176 glogMgr.go:303] Tailscale
+I0404 13:11:36.775771    6176 glogMgr.go:303] 我的世界启动器
+I0404 13:11:36.775771    6176 glogMgr.go:303] Windows Driver Package - STMicroelectronics (usbser) Ports  (06/08/2017 2.01)
+I0404 13:11:36.775771    6176 glogMgr.go:303] 艾尔登法环
+I0404 13:11:36.775771    6176 glogMgr.go:303] 控制 - 终极合辑 / Control Ultimate Edition
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532
+I0404 13:11:36.775771    6176 glogMgr.go:303] Mozilla Maintenance Service
+I0404 13:11:36.775771    6176 glogMgr.go:303] Terraria
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+I0404 13:11:36.775771    6176 glogMgr.go:303] Update for Windows 10 for x64-based Systems (KB5001716)
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA NetworkService Container
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Update Core
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Windows Desktop Runtime - 8.0.0 (x64)
+I0404 13:11:36.775771    6176 glogMgr.go:303] 戴森球计划
+I0404 13:11:36.775771    6176 glogMgr.go:303] Operation Tango
+I0404 13:11:36.775771    6176 glogMgr.go:303] NVIDIA Session Container
+I0404 13:11:36.775771    6176 glogMgr.go:303] Nvidia Share
+I0404 13:11:36.775771    6176 glogMgr.go:303] Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532
+I0404 13:11:36.775771    6176 glogMgr.go:303] Windows 驱动程序包 - Silicon Laboratories (silabenm) Ports  (10/18/2013 6.6.1.0)
+I0404 13:11:36.775771    6176 glogMgr.go:303] Plants vs. Zombies: Game of the Year
+I0404 13:11:36.775771    6176 glogMgr.go:303] Dynamic Application Loader Host Interface Service
+I0404 13:11:37.313771    6176 tool.go:1264] get list cost:4.999ms
+I0404 13:11:37.313771    6176 main.go:4253] Run Current Version : 1.1.48, cpu:16
+I0404 13:11:37.313771    6176 main.go:4248] listen tcp 127.0.0.1:10000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+I0404 13:11:37.356772    6176 sys.go:87] home dir: C:\Users\Winter
+I0404 13:11:37.560921    6176 main.go:4284] listen web ui success:127.0.0.1:38252
+I0404 13:11:37.716923    6176 tool.go:340] localip:192.168.1.6
+I0404 13:11:37.716923    6176 main.go:4341] gateWayIP:192.168.1.1
+I0404 13:11:37.832922    6176 tool.go:522] netcard:main.netCardInfo{NetType:0x6, IP:"192.168.1.6", Mask:"255.255.255.0", MacAddr:"d8:43:ae:3f:eb:94", Gateway:"192.168.1.1", Status:"up|broadcast|multicast", Name:"以太网 2", IfIndex:7}
+I0404 13:11:37.832922    6176 main.go:3405] cards: []main.netCardInfo{main.netCardInfo{NetType:0x6, IP:"192.168.1.6", Mask:"255.255.255.0", MacAddr:"d8:43:ae:3f:eb:94", Gateway:"192.168.1.1", Status:"up|broadcast|multicast", Name:"以太网 2", IfIndex:7}}
+I0404 13:11:40.667924    6176 utils.go:711] CurProcessIsAdmin err:The operation completed successfully.
+I0404 13:11:40.667924    6176 utils.go:712] CurProcessIsAdmin:1
+I0404 13:29:30.418005    6176 main.go:4016] ClickedCh
+I0404 13:29:30.419005    6176 main.go:253] [main.(*heyboxAccelerator).resetInfo]  resetInfo 1 end
+I0404 13:29:30.419005    6176 main.go:261] [main.(*heyboxAccelerator).resetInfo]  resetInfo 2 end
+I0404 13:29:30.419005    6176 main.go:266] [main.(*heyboxAccelerator).resetInfo]  resetInfo 3 end
+I0404 13:29:30.419005    6176 main.go:271] [main.(*heyboxAccelerator).resetInfo]  resetInfo 4 end
+I0404 13:29:30.419005    6176 main.go:277] [main.(*heyboxAccelerator).resetInfo]  resetInfo 5 end
+I0404 13:29:30.419005    6176 main.go:279] udp resetInfo proto
+I0404 13:29:30.419005    6176 main.go:290] [main.(*heyboxAccelerator).resetInfo]  resetInfo 6 end
+I0404 13:29:30.419005    6176 main.go:296] [main.(*heyboxAccelerator).resetInfo]  resetInfo 7 end
+I0404 13:29:30.419005    6176 main.go:303] [main.(*heyboxAccelerator).resetInfo]  resetInfo end

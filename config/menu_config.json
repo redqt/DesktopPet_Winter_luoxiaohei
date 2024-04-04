@@ -1,0 +1,113 @@
+{
+    "menu": [
+        {
+            "name": "GPT-academic",
+            "type": "subprocess.Popen",
+            "params": [
+                "powershell",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                ".\\bat\\academic.ps1"
+            ]
+        },
+        {
+            "name": "我要玩Apex",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\Apex.bat"
+            ]
+        },
+        {
+            "name": "远程控制",
+            "type": "subprocess.Popen",
+            "params": [
+                "powershell",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                ".\\bat\\sunshine.ps1"
+            ]
+        }
+    ],
+    "视频": [
+        {
+            "name": "我要看bilibili",
+            "type": "webbrowser",
+            "params": "https://www.bilibili.com/"
+        },
+        {
+            "name": "我要看Alist",
+            "type": "webbrowser",
+            "params": "http://localhost:5244/"
+        }
+    ],
+    "文件": [
+        {
+            "name": "Wallpaper",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\openDir.bat",
+                "D:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\431960"
+            ]
+        },
+        {
+            "name": "代码",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\openDir.bat",
+                "E:\\codes"
+            ]
+        },
+        {
+            "name": "嵌入式代码",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\openDir.bat",
+                "E:\\HardWare_Codes"
+            ]
+        },
+        {
+            "name": "酒馆",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\openDir.bat",
+                "E:\\SillyTavern\\SillyTavern-1.11.5\\SillyTavern-1.11.5\\SillyTavern-1.11.5"
+            ]
+        },
+        {
+            "name": "GPT-SoVITS",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\openDir.bat",
+                "E:\\GPT-SoVITS\\GPT-SoVITS-0322-liuyue\\GPT-SoVITS-0310-liuyue"
+            ]
+        }
+    ],
+    "Steam": [
+        {
+            "name": "大号",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\steam.bat",
+                "107563689"
+            ]
+        },
+        {
+            "name": "小号",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\steam.bat",
+                "qtmimizhanghu"
+            ]
+        },
+        {
+            "name": "阿根廷",
+            "type": "subprocess.run",
+            "params": [
+                ".\\bat\\steam.bat",
+                "ulvkm319"
+            ]
+        }
+    ]
+}

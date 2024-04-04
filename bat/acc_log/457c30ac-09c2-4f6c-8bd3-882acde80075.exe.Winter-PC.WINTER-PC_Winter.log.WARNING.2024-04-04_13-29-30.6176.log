@@ -1,0 +1,4 @@
+Log file created at: 2024/04/04 13:29:30
+Running on machine: Winter-PC
+Binary: Built with gc go1.14.10 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
